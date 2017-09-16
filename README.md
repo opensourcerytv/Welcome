@@ -13,8 +13,8 @@ Join the chat room:
 
 ## Links to stuff
 
-Main:
-https://github.com/opensourcerytv
+**This document**:
+https://github.com/opensourcerytv/welcome
 
 IDE (Code Editor):
 * https://code.visualstudio.com/
