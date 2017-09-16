@@ -1,5 +1,17 @@
 # Welcome!
 
+Main:
+https://github.com/opensourcerytv
+
+WiFi:
+Just Nation Guest / GuestP@ss
+
+Chat:
+https://tlk.io/jdp
+
+IDE (Code Editor):
+https://code.visualstudio.com/
+
 Install Node:
 https://nodejs.org/en/download/current/
 
