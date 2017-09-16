@@ -1,18 +1,23 @@
 # Welcome!
 
+## Step Zero:
+
+Join the WiFi:
+
+Just Nation Guest / GuestP@ss
+
+## Step One:
+
+Join the chat room:
+[https://tlk.io/jdp](https://tlk.io/jdp)
+
+## Links to stuff
+
 Main:
 https://github.com/opensourcerytv
 
-WiFi:
-Just Nation Guest / GuestP@ss
-
-Chat:
-https://tlk.io/jdp
-
 IDE (Code Editor):
 https://code.visualstudio.com/
-
-Online IDE:
 https://c9.io/
 
 Install Node:
